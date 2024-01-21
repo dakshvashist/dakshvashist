@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **dvdaksh@gmail.com**
 - 📄 Know more about me on [LinkedIn](https://www.linkedin.com/in/dakshvashist)
 
+| <a href="https://github.com/dakshvashist/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dakshvashist&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Daksh's github stats" /></a> | <a href="https://github.com/dakshvashist/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshvashist&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
