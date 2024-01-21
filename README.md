@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **a YT channel focused on business analysis [Updates to follow soon]**
 - 🌱 I’m currently learning **Machine Learning**
-- 👯 I’m looking to collaborate on **Business analysis projects**
+- 👯 I’m looking to collaborate on **Kaggle projects**
 - 🤔 I’m looking for help with **preparing a template for data analysis using Python and SQL**
 <!--
 - 💬 Ask me about ...
